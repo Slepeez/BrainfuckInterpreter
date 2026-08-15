@@ -39,7 +39,7 @@ From the root directory of the project, you can run them using your compiled bin
 ./build/brainfuck_interpreter examples/helloworld.b
 
 # 2. Algorithm & Stack Test (Sierpinski Triangle Generator)
-./build/brainfuck_interpreter examples/sierpinski.b
+./build/brainfuck_interpreter examples/sierpinski.bf
 
 # 3. Interactive Math (Arbitrary Large Integer Factorizer)
 ./build/brainfuck_interpreter examples/factor.b
