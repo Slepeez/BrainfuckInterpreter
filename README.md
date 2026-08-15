@@ -36,13 +36,13 @@ From the root directory of the project, you can run them using your compiled bin
 
 ```bash
 # 1. Basic Text Output Test (Hello World)
-./build/brainfuck_interpreter examples/hello_world.bf
+./build/brainfuck_interpreter examples/helloworld.b
 
 # 2. Algorithm & Stack Test (Sierpinski Triangle Generator)
-./build/brainfuck_interpreter examples/sierpinski.bf
+./build/brainfuck_interpreter examples/sierpinski.b
 
 # 3. Interactive Math (Arbitrary Large Integer Factorizer)
-./build/brainfuck_interpreter examples/factor.bf
+./build/brainfuck_interpreter examples/factor.b
 ```
 
 ##  License & Attributions
