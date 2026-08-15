@@ -43,8 +43,11 @@ From the root directory of the project, you can run them using your compiled bin
 
 # 3. Interactive Math (Arbitrary Large Integer Factorizer)
 ./build/brainfuck_interpreter examples/factor.b
-```
 
+# 4. Chess pieces and the board
+./build/brainfuck_interpreter examples/chess.bf
+
+```
 ##  License & Attributions
 
 This interpreter core engine is open-source software licensed under the permissive **[MIT License](LICENSE)**. 
